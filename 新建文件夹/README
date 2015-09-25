@@ -14,17 +14,17 @@ Linux Kernel 3.19.8 NUMA相关源码注释文件索引
 11.	arch/x86/include/asm/pgtable_3level_types.h                  已完成
 12.	arch/x86/include/asm/pgtable_2level_types.h                  已完成
 13.	arch/x86/mm/fault.c                                          已完成
-14 .mm/mempolicy.c                                               已完成
-15. mm/page_alloc.c                                              已完成
-16. mm/memory.c                                                  未开始
-17. mm/vmscan.c                                                  未开始
-18. mm/vmalloc.c                                                 未开始
-19. include/linux/vmalloc.h                                      未开始
-20. arch/x86/mm/numa.c                                           未开始
-21. arch/x86/mm/ioremap.c                                        未开始
+14.   mm/mempolicy.c                                               已完成
+15.   mm/page_alloc.c                                              已完成
+16.   mm/memory.c                                                  未开始
+17.   mm/vmscan.c                                                  未开始
+18.   mm/vmalloc.c                                                 未开始
+19.   include/linux/vmalloc.h                                      未开始
+20.   arch/x86/mm/numa.c                                           未开始
+21.   arch/x86/mm/ioremap.c                                        未开始
 调度：
-1.  include/linux/topology.h                                     未开始
-2.  kernel/sched.c                                               未开始
+1.     include/linux/topology.h                                     未开始
+2.     kernel/sched.c                                               未开始
 3.	include/asm-generic/mmu_context.h                            未开始
 4.	include/asm-generic/switch_to.h                              未开始
 cache:

@@ -1,0 +1,36 @@
+Linux Kernel 3.19.8 NUMA相关源码注释文件索引
+
+内存管理部分：
+1.	include/linux/mmzone.h                                       已完成
+2.	include/linux/mm_types.h                                     已完成
+3.	include/linux/mm.h                                           已完成
+4.	include/linux/gfp.h                                          已完成
+5.	include/linux/sched.h                                        已完成
+6.	include/asm-generic/page.h                                   已完成
+7.	include/asm-generic/pgtable.h                                已完成
+8.	arch/x86/include/asm/pgtable_types.h                         已完成
+9.	arch/x86/include/asm/pgtable_32_types.h                      已完成
+10.	arch/x86/include/asm/pgtable_64_types.h                      已完成
+11.	arch/x86/include/asm/pgtable_3level_types.h                  已完成
+12.	arch/x86/include/asm/pgtable_2level_types.h                  已完成
+13.	arch/x86/mm/fault.c                                          已完成
+14 .mm/mempolicy.c                                               已完成
+15. mm/page_alloc.c                                              已完成
+16. mm/memory.c                                                  未开始
+17. mm/vmscan.c                                                  未开始
+18. mm/vmalloc.c                                                 未开始
+19. include/linux/vmalloc.h                                      未开始
+20. arch/x86/mm/numa.c                                           未开始
+21. arch/x86/mm/ioremap.c                                        未开始
+调度：
+1.  include/linux/topology.h                                     未开始
+2.  kernel/sched.c                                               未开始
+3.	include/asm-generic/mmu_context.h                            未开始
+4.	include/asm-generic/switch_to.h                              未开始
+cache:
+1.	mm/slab.c                                                    未开始
+2.	mm/slab.h                                                    未开始
+3.	mm/swap.c                                                    未开始
+4.	mm/mmap.c                                                    未开始
+5.	mm/mempool.c                                                 未开始
+6.	fs/fscache/cache.c                                           未开始

@@ -23,8 +23,8 @@ Linux Kernel 3.19.8 NUMA相关源码注释文件索引
 20.     arch/x86/mm/numa.c                                           未开始
 21.     arch/x86/mm/ioremap.c                                        未开始
 调度：
-1.       include/linux/topology.h                                     未开始
-2.       kernel/sched.c                                               未开始
+1.      include/linux/topology.h                                     未开始
+2.      kernel/sched.c                                               未开始
 3.	include/asm-generic/mmu_context.h                            未开始
 4.	include/asm-generic/switch_to.h                              未开始
 cache:
